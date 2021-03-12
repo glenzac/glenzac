@@ -5,7 +5,7 @@
 
 title: Glen Zachariah # Website name
 baseurl: 'https://glenzac.netlify.app/' # Website URL
-copyright: '`&copy;` `{year}`' # Footer text, e.g. '© {year} Me'
+copyright: '©{year}' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

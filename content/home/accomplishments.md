@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Certifications'
 subtitle:
 
 # Date format
@@ -23,28 +23,28 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/AU6HS953G8PR
   date_end: ""
   date_start: "2020-04-12"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
   title: Introduction to programming with MATLAB
-  url: "https://www.coursera.org/account/accomplishments/certificate/AU6HS953G8PR"
-- certificate_url: https://www.coursera.org
+  url: https://www.coursera.org/learn/matlab
+- certificate_url: https://www.coursera.org/account/accomplishments/verify/HYKJ6MBVH87G
+  date_end: ""
+  date_start: "2019-02-27"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Industrial IoT on Google Cloud Platform
+  url: https://www.coursera.org/learn/iiot-google-cloud-platform
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/ZZC5DR3BXA7B
   date_end: ""
   date_start: "2020-04-09"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
   title: Computer Vision Basics
-  url: "https://www.coursera.org/account/accomplishments/certificate/ZZC5DR3BXA7B"
-- certificate_url: https://www.datacamp.com
-  date_end: ""
-  date_start: "2019-02-27"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.datacamp.com
-  title: Industrial IoT on Google Cloud Platform
-  url: "https://www.coursera.org/account/accomplishments/verify/HYKJ6MBVH87G"
+  url: https://www.coursera.org/learn/computer-vision-basics
 ---
