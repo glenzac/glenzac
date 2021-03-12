@@ -11,10 +11,10 @@ role: Pursuing Masters in VLSI Design
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Vellore Institute of Technology 
-  url: [vit.ac.in](https://vit.ac.in/)
+  url: https://vit.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: My research interests include - 
 
 # Interests to show in About widget
 interests:
