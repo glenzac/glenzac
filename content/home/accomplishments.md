@@ -24,27 +24,27 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2018-10-01"
+  date_end: "2020-04-12"
+  date_start: ""
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
+  title: Introduction to programming with MATLAB
+  url: "https://www.coursera.org/account/accomplishments/certificate/AU6HS953G8PR"
+- certificate_url: https://www.coursera.org
   date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
+  date_start: "2020-04-09"
   description: ""
-  organization: DataCamp
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Computer Vision Basics
+  url: "https://www.coursera.org/account/accomplishments/certificate/ZZC5DR3BXA7B"
+- certificate_url: https://www.datacamp.com
+  date_end: "2019-02-27"
+  date_start: ""
+  description: ""
+  organization: Coursera
   organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
-  url: ""
+  title: Industrial IoT on Google Cloud Platform
+  url: "https://www.coursera.org/account/accomplishments/verify/HYKJ6MBVH87G"
 ---

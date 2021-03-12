@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/glenzac
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://glenzac.netlify.app
+  * I am glenzac (https://keybase.io/glenzac) on keybase.
+  * I have a public key ASCcUzvzsurVPK7Xku4BY_6QXgTs7tdFoPVvuuGUt446CAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209c533bf3b2ead53caed792ee0163fe905e04eceed745a0f56fbae194b78e3a080a",
+      "host": "keybase.io",
+      "kid": "01209c533bf3b2ead53caed792ee0163fe905e04eceed745a0f56fbae194b78e3a080a",
+      "uid": "70e1f9b94802a0f5c586244310cff919",
+      "username": "glenzac"
+    },
+    "merkle_root": {
+      "ctime": 1600186071,
+      "hash": "79c57aae6a85bbb5baeff26123eb514e1794312040384d8f47140e3bdcb06e0377c89b25ad8d299048d783d9ca06e1f3cb095feb699960f569402bc9daef5ad6",
+      "hash_meta": "3835a43905b4d8e12eb7ce188eea58aa3ab975209c4e52b04a3060600bc4e1e4",
+      "seqno": 17575538
+    },
+    "service": {
+      "entropy": "WlfWCfNtSiG4XEkSCFM7Hc9B",
+      "hostname": "glenzac.netlify.app",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1600186088,
+  "expire_in": 504576000,
+  "prev": "716054f797e70f4eb6e8bfb15db461c6621be701fb69403ce4a50d8493bd70f5",
+  "seqno": 27,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgnFM787Lq1Tyu15LuAWP+kF4E7O7XRaD1b7rhlLeOOggKp3BheWxvYWTESpcCG8QgcWBU95fnD0626L+xXbRhxmIb5wH7aUA85KUNhJO9cPXEIPQjEOVtw+31eyRvBmrR44FvYgsV00hHSrMlmp9yi84vAgHCo3NpZ8RAjH4Y2HjtKIVAC/HR1lu0xVbz9x/bpLWed7WazkbAGrHeP3Bu422rQ8PVdNPWoI2wAioUP9DhBEHFZVQ3BfbwCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKTWcCkecib7yEJBGkvUpxstxwBnUbujeUvLrsbgNSeZo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/glenzac
+
+==================================================================
