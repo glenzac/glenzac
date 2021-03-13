@@ -34,15 +34,13 @@ experience:
         * Analysing
         * Modelling
         * Deploying
-        
   - title: Designer and Digital Marketing Intern
     company: 10X Web Solutions
     company_url: ''
     location: 
     date_start: '2017-02-01'
     date_end: '2017-03-30'
-    description: 
-
+    description:
   - title: Business Development Lead
     company: Zooeq Inc.
     company_url: ''

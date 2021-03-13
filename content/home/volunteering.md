@@ -28,8 +28,7 @@ experience:
     location: 
     date_start: '2017-01-01'
     date_end: ''
-    description:
-       
+    description:  
   - title: Vice Chairman 
     company: RSET IEEE Student Branch
     company_url: ''
@@ -37,7 +36,6 @@ experience:
     date_start: '2016-01-01'
     date_end: '2016-12-31'
     description:
-
   - title: Technical Coordinator 
     company: RSET IEEE Student Branch
     company_url: ''
@@ -45,7 +43,6 @@ experience:
     date_start: '2016-01-01'
     date_end: '2016-12-31'
     description:
-
   - title: Organizing Team Member
     company: TEDx SubhashPark
     company_url: 'https://www.ted.com/tedx/events/23660'
@@ -53,7 +50,6 @@ experience:
     date_start: ''
     date_end: '2018-04-07'
     description:
-
   - title: Volunteer Lead 
     company: India Electronics Week - 2018
     company_url: 'https://www.indiaelectronicsweek.com'
@@ -61,7 +57,6 @@ experience:
     date_start: ''
     date_end: '2018-02-09'
     description:
-
   - title: Organizing Team Member
     company: TEDx SubhashPark
     company_url: 'https://www.ted.com/tedx/events/23660'
@@ -69,7 +64,6 @@ experience:
     date_start: ''
     date_end: '2018-04-07'
     description:
-
   - title: Organizing Team Member
     company: TEDx SubhashPark
     company_url: 'https://www.ted.com/tedx/events/23660'
@@ -77,5 +71,4 @@ experience:
     date_start: ''
     date_end: '2018-04-07'
     description:
-
 ---
