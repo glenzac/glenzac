@@ -22,24 +22,60 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Hardware Development Lead
-    company: Humble Innovations Pvt. Ltd.
+  - title: Chairman
+    company: RSET IEEE Student Branch
     company_url: ''
     location: 
     date_start: '2017-01-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+    description:
+       
+  - title: Vice Chairman 
+    company: RSET IEEE Student Branch
     company_url: ''
-    location: California
+    location: 
     date_start: '2016-01-01'
     date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description:
+
+  - title: Technical Coordinator 
+    company: RSET IEEE Student Branch
+    company_url: ''
+    location: 
+    date_start: '2016-01-01'
+    date_end: '2016-12-31'
+    description:
+
+  - title: Organizing Team Member
+    company: TEDx SubhashPark
+    company_url: 'https://www.ted.com/tedx/events/23660'
+    location: 
+    date_start: ''
+    date_end: '2018-04-07'
+    description:
+
+  - title: Volunteer Lead 
+    company: India Electronics Week - 2018
+    company_url: 'https://www.indiaelectronicsweek.com'
+    location: 
+    date_start: ''
+    date_end: '2018-02-09'
+    description:
+
+  - title: Organizing Team Member
+    company: TEDx SubhashPark
+    company_url: 'https://www.ted.com/tedx/events/23660'
+    location: 
+    date_start: ''
+    date_end: '2018-04-07'
+    description:
+
+  - title: Organizing Team Member
+    company: TEDx SubhashPark
+    company_url: 'https://www.ted.com/tedx/events/23660'
+    location: 
+    date_start: ''
+    date_end: '2018-04-07'
+    description:
+
 ---

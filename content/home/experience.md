@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Hardware Development Lead
+  - title: Hardware Development Intern
     company: Humble Innovations Pvt. Ltd.
     company_url: ''
     location: 
@@ -35,11 +35,19 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor
-    company: University X
+  - title: Designer and Digital Marketing Intern
+    company: 10X Web Solutions
     company_url: ''
-    location: California
+    location: 
+    date_start: '2017-02-01'
+    date_end: '2017-03-30'
+    description: 
+
+  - title: Business Development Lead
+    company: Zooeq Inc.
+    company_url: ''
+    location: 
     date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_end: '2016-06-01'
+    description: 
 ---
