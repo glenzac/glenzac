@@ -5,7 +5,7 @@
 
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = ""
@@ -50,20 +50,8 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+
 +++
-
-## Academic Template
-
-## You're looking at a Wowchemy _widget_
-
 {{% callout note %}}
 This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
-
-Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
-
-**To remove this section, delete `content/home/demo.md`.**
 {{% /callout %}}
-
-## Get inspired
-
-[Check out the Markdown files](https://github.com/wowchemy/starter-academic/tree/master/exampleSite) which power the [Academic Demo](https://academic-demo.netlify.app), or [view the showcase](https://wowchemy.com/user-stories/).
