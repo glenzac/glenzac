@@ -48,13 +48,13 @@ experience:
     company_url: 'https://www.ted.com/tedx/events/23660'
     location: 
     date_start: '2018-04-07'
-    date_end: ''
+    date_end: '2018-04-07'
     description:
   - title: Volunteer Lead 
     company: India Electronics Week - 2018
     company_url: 'https://www.indiaelectronicsweek.com'
     location: 
     date_start: '2018-02-09'
-    date_end: ''
+    date_end: '2018-02-11'
     description:
 ---
