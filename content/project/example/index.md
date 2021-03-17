@@ -1,5 +1,5 @@
 ---
-title: Hardware Accelerators for Brain Tumor Detection
+title: Hardware Accelerator for Brain Tumor Detection
 summary: An example of using the in-built project page.
 tags:
 - verilog
